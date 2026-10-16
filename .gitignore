@@ -1,0 +1,29 @@
+# Archivos compilados de C
+*.o
+*.obj
+*.a
+*.so
+*.out
+*.exe
+
+# Ejecutables habituales del proyecto
+minish
+minish.exe
+
+# Información de depuración y cobertura
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+
+# Archivos temporales y del editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
