@@ -2,6 +2,8 @@
 
 ## Integrantes
 Matias Rocha, Cristofer Leiva, Joaquin Gonzales, Camilo Velasquez
+
+
 Proyecto académico de Sistemas Operativos cuyo objetivo es implementar una mini-shell en C para Linux. El repositorio se encuentra actualmente en etapa de preparación: todavía no contiene la implementación.
 
 ## Objetivo
