@@ -1,5 +1,7 @@
 # Mini-shell en C para Linux
 
+## Integrantes
+Matias Rocha, Cristofer Leiva, Joaquin Gonzales, Camilo Velasquez
 Proyecto académico de Sistemas Operativos cuyo objetivo es implementar una mini-shell en C para Linux. El repositorio se encuentra actualmente en etapa de preparación: todavía no contiene la implementación.
 
 ## Objetivo
@@ -13,7 +15,7 @@ La aplicación deberá ejecutar programas externos, administrar procesos en prim
 - Ejecutar programas con argumentos, por ejemplo `ls -l /tmp`.
 - Gestionar procesos en primer y segundo plano.
 - Evitar procesos zombis.
-- Incluir los comandos internos `cd`, `exit` y `help`.
+- Incluir los comandos internos `cd` y `help`.
 - Mostrar información de memoria por proceso y un resumen al salir.
 - Compilar sin advertencias y mantener el código modular, indentado y documentado.
 
